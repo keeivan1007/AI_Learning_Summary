@@ -5,4 +5,6 @@ My Deep Learning experience,hope can help people love AI too
 
 【Hung-yi Lee Machine Learning】
 
+URL:https://goo.gl/G1rtDF
+
 1.Auto-Encoder https://goo.gl/ubiAtS
