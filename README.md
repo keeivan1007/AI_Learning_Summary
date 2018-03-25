@@ -16,8 +16,8 @@ Group URL:https://goo.gl/X1JNw6
 
   Paper          +                Code         +            URL
   
-1.【AlexNet+PyTorch_Basic】:https://goo.gl/4nuqci
+1.[AlexNet+PyTorch_Basic]:https://goo.gl/4nuqci
 
-2.【ZFNet+AlexNet】:https://goo.gl/PRNjH7
+2.[ZFNet+AlexNet]:https://goo.gl/PRNjH7
 
-3.【Network In Network+Learning PyTorch with Examples】:https://goo.gl/ksbjDW
+3.[Network In Network+Learning PyTorch with Examples]:https://goo.gl/ksbjDW
